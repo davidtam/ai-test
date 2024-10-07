@@ -4,3 +4,4 @@
 
 # now we are using .env, just to make sure we dont check that in
 .env
+.codebuddy/
